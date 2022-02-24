@@ -1,5 +1,7 @@
-# isa-projekat
+# Fishing Booker
 [![CircleCI](https://circleci.com/gh/StefanLjubovic/isa-projekat.svg?style=shield)](https://app.circleci.com/pipelines/github/StefanLjubovic/isa-projekat?filter=all)
+
+Web application for booking lodging, ships, and adventures for the fishing experience.
 
 ### Developers
 - Student 1: Stefan Ljubović RA 148/2018
